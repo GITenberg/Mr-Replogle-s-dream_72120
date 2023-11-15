@@ -1,0 +1,27 @@
+_repo: Mr-Replogle-s-dream_72120
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Evelyn E.
+    birthdate: 1922
+    deathdate: 2000
+    gutenberg_agent_id: '25680'
+    url: http://www.gutenberg.org/2009/agents/25680
+description: ''
+gutenberg_issued: '2023-11-14'
+identifiers:
+  gutenberg: '72120'
+language: en
+pgterms:marc905: 20231020050753smith
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mr. Replogle's dream
+url: http://www.gutenberg.org/ebooks/72120
